@@ -36,6 +36,10 @@ https://nbviewer.org/github/juil/ProphetForecast/blob/master/forecasting_net_pro
 
 ![Prophet Time Series Model](./img/prophet-timeseries.png)
 
+### 5. Forecast Revenue
+
+![Revenue Forecast](./img/forecast-revenue.png)
+
 ## Code
 
 Rendered in [Google Colab](https://colab.research.google.com/github/juil/ProphetForecast/blob/master/forecasting_net_prophet.ipynb)
